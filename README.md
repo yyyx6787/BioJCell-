@@ -19,6 +19,9 @@ https://drive.google.com/file/d/1Pau0z2cpFzPJamkwqByaJoPUgCgiL53O/view?usp=drive
 ## Train and evaluate
 ```
 cd code
+python fno_wet.py
+python sfno_wet.py
 python fno_jelly.py
 python sfno_jelly.py
+...
 ```
