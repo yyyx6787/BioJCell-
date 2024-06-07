@@ -6,5 +6,5 @@
 ## Train and evaluate
 ```
 cd code
-python train_division.py
+python fno_jelly.py
 ```
