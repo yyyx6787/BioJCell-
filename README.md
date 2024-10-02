@@ -1,4 +1,4 @@
-# BioJCell: Benchmark Datasets for Data-Driven Biological Fluid Simulation
+# CellDJBench: Benchmark Datasets for Data-Driven Biological Fluid Simulation
 
 
 ## How to access our contributed data
