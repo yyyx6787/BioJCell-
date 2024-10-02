@@ -27,5 +27,4 @@ python fno_wet.py
 python sfno_wet.py
 python fno_jelly.py
 python sfno_jelly.py
-...
 ```
